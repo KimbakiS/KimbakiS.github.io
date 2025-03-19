@@ -4,8 +4,6 @@ layout: default
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
-[Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -16,7 +14,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 # Projects
 
-## Cybersecurity Home Lab
+## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.html).
 
 ![Cybersecurity Home Lab](https://github.com/user-attachments/assets/9b4fd82a-67b7-44dc-bc0f-f81855f00c49)
 
@@ -30,7 +28,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-## Windows Forensics Home Lab
+## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.html).
 
 ![Forensics Lab - Construction](https://github.com/user-attachments/assets/89eea950-61c7-4f48-8155-4b70497bad97)
 
