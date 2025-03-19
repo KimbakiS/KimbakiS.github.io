@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
 ## Header 2
 
