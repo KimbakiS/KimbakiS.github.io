@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
 [Link to another page](./another-page.html).
 
@@ -10,17 +10,36 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Bio
 
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
-## Header 2
+# Projects
 
-> This is a blockquote following a header.
+## Cybersecurity Home Lab
+
+![Cybersecurity Home Lab](https://github.com/user-attachments/assets/9b4fd82a-67b7-44dc-bc0f-f81855f00c49)
+
+- Developed a comprehensive, evolving network diagram in Canva to map adapter links, IPs, and VM roles.
+- Configured pfSense as a multi-interface router/firewall to manage subnets.
+- Deployed an Active Directory environment with Windows Server DC & two Windows 10 clients.
+- Set up a Security Onion VM to monitor victim network traffic (via a span port) for IDS, monitoring, and log management and created an Ubuntu VM to access the web portal and conduct analysis.
+- Built a pentesting VM for manual/automated testing, recon, exploitation, and pfSense portal access.
+  
+<!-- > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor. -->
 
-### Header 3
+## Windows Forensics Home Lab
+
+![Forensics Lab - Construction](https://github.com/user-attachments/assets/89eea950-61c7-4f48-8155-4b70497bad97)
+
+- Configured a forensics workstation and target machine, executing scripts to simulate attacks.
+- Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager.
+Investigated registry, file system, program execution, and logs with Zimmerman Tools and RegRipper.
+- Performed memory forensics on dumps with Volatility3.
+
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -35,7 +54,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
