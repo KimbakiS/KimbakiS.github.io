@@ -12,7 +12,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 # Projects
 
-## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.html).
+## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
 
 A cybersecurity home lab featuring pfSense for network management, Active Directory with Windows Server, Security Onion for traffic monitoring, and pentesting tools for analysis and exploitation.
   
@@ -20,7 +20,7 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.html).
+## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
 
 ![Forensics Lab - Construction](./images/Forensics Lab - Construction.JPG)
 
