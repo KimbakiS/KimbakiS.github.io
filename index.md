@@ -11,13 +11,16 @@ layout: default
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
 # Certifications
+
+![giac-security-essentials-certification-gsec (1)](https://github.com/user-attachments/assets/7572f80d-d020-4841-a32d-e3984cb462f9)
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/79b72e81-4a43-477e-9333-330d7c2faaac/public_url)
 
-- GIAC Foundational Cybersecurity Technologies (GFACT) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fcc07bf5-304c-448e-b31d-41285a98ee5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![giac-foundational-cybersecurity-technologies-gfact (1)](https://github.com/user-attachments/assets/e79e3509-ca9f-4106-b3f1-a2b9ead32aeb)
+- [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/badges/fcc07bf5-304c-448e-b31d-41285a98ee5a/public_url)
 
-- ISC2 Certified in Cybersecurity (CC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c67ac40-1748-4df4-97eb-f5da82538ce2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![certified-in-cybersecurity-cc](https://github.com/user-attachments/assets/fc75e1cf-5ff2-4a0c-baf4-2bf551056621)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/9c67ac40-1748-4df4-97eb-f5da82538ce2/public_url)
 
-- <iframe src="https://www.credly.com/badges/501dc830-de3d-4c37-bbe7-9dfaf4e0fa9d/public_url" width="150" height="270" frameborder="0"></iframe>
 
 # Projects
 
