@@ -37,12 +37,7 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
 
-![Forensics Lab - Construction](./images/Forensics Lab - Construction.JPG)
-
-- Configured a forensics workstation and target machine, executing scripts to simulate attacks.
-- Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager.
-Investigated registry, file system, program execution, and logs with Zimmerman Tools and RegRipper.
-- Performed memory forensics on dumps with Volatility3.
+A Windows forensics lab featuring an attack machine simulating attacks on a target machine from which memory dumps and disk images are acquired. These artifacts are then mounted and analyzed on a dedicated workstation, where investigations are conducted using tools like Volatility and Zimmerman tools.
 
 <!-- ### Header 3
 
