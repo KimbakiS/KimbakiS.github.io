@@ -15,7 +15,9 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 - GIAC Foundational Cybersecurity Technologies (GFACT) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fcc07bf5-304c-448e-b31d-41285a98ee5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
--- ISC2 Certified in Cybersecurity (CC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c67ac40-1748-4df4-97eb-f5da82538ce2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- ISC2 Certified in Cybersecurity (CC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c67ac40-1748-4df4-97eb-f5da82538ce2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- <iframe src="https://www.credly.com/badges/501dc830-de3d-4c37-bbe7-9dfaf4e0fa9d/public_url" width="150" height="270" frameborder="0"></iframe>
 
 # Projects
 
