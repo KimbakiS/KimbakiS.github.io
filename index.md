@@ -12,6 +12,8 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 # Certifications
 
+<img src="https://github.com/user-attachments/assets/7572f80d-d020-4841-a32d-e3984cb462f9" alt="giac-security-essentials-certification-gsec" width="150">
+
 ![giac-security-essentials-certification-gsec (1)](https://github.com/user-attachments/assets/7572f80d-d020-4841-a32d-e3984cb462f9)
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/79b72e81-4a43-477e-9333-330d7c2faaac/public_url)
 
