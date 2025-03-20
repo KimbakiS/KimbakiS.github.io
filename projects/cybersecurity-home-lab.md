@@ -39,6 +39,8 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 
 ## Pfsense Configuration
 
+![image](https://github.com/user-attachments/assets/bca40c55-f972-4310-9d46-90f431b2a088)
+
 ### Interface Assignment:
   1. WAN: **em0 — `192.168.106.130/24` (auto)**
   2. LAN: **em1 — `192.168.1.1/24` — enable DHCP**
@@ -46,6 +48,8 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
   4. OP2: **em3 — `192.168.3.1`**
   5. OP3: **em4 — no IP (this will be a span port)**
   6. OP4: **em5 — `192.168.4.1`**
+
+
 
 ### Web Portal Configuration:
 - Primary DNS: `8.8.8.8`   Secondary DNS: `4.4.4.4`
