@@ -14,13 +14,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.html).
 
-![Cybersecurity Home Lab](./images/Cybersecurity Home Lab.PNG)
-
-- Developed a comprehensive, evolving network diagram in Canva to map adapter links, IPs, and VM roles.
-- Configured pfSense as a multi-interface router/firewall to manage subnets.
-- Deployed an Active Directory environment with Windows Server DC & two Windows 10 clients.
-- Set up a Security Onion VM to monitor victim network traffic (via a span port) for IDS, monitoring, and log management and created an Ubuntu VM to access the web portal and conduct analysis.
-- Built a pentesting VM for manual/automated testing, recon, exploitation, and pfSense portal access.
+A cybersecurity home lab featuring pfSense for network management, Active Directory with Windows Server, Security Onion for traffic monitoring, and pentesting tools for analysis and exploitation.
   
 <!-- > This is a blockquote following a header.
 >
