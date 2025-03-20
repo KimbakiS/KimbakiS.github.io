@@ -49,16 +49,27 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
   5. OP3: **em4 — no IP (this will be a span port)**
   6. OP4: **em5 — `192.168.4.1`**
 
-![image](https://github.com/user-attachments/assets/51a47024-7091-401c-9dfe-0ebc72d1261e) ![image](https://github.com/user-attachments/assets/53cf5ec8-d8bc-4518-8028-627502e89f9c)
 
 ### Web Portal Configuration:
+
+![image](https://github.com/user-attachments/assets/51a47024-7091-401c-9dfe-0ebc72d1261e)
+
 - Primary DNS: `8.8.8.8`   Secondary DNS: `4.4.4.4`
 - Interface Names: LAN=`Kali`   OPT1=`VictimNetwork`   OPT2=`SecOnion`   OPT3=`SpanPort`
+
+![image](https://github.com/user-attachments/assets/53cf5ec8-d8bc-4518-8028-627502e89f9c)
+
 - Add `SPANPORT` as the span port for `VictimNetwork` so the latter's traffic will pass through to `SecOnon`
 
 ![image](https://github.com/user-attachments/assets/bf7643ad-8edf-4cf6-89b5-b037a906c9e4)
 
 - Firewall: accept traffic on all interfaces and all ports -- _intentional security misconfiguration_
+
+#### Testing
+
+![image](https://github.com/user-attachments/assets/303848ff-1600-4ebe-ae5d-3707e240b8a4)
+
+- Run a Diagnostic packet capture in Pfsense on the Span Port to capture an Nmap scan from the Pentester VM (`192.168.1.101`) to the Windows DC (`192.168.2.10`) -- CHECK
 
 
 ---
@@ -76,7 +87,7 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 - Create a firewall rule to allow Analyst VM to accesss Security Onion's web portal at `192.168.106.131`
 
 ### Testing & Troubleshooting
-- Check if traffic is being captured from the Windows Server on the span port and sent to the monitoring interface `ens224` (Vmnet5) -- ``sudo tcpdump -i ens224``
+- Check if traffic is being captured from the Windows Server on the span port and sent to the monitoring interface `ens224` (Vmnet5) -- ``sudo tcpdump -i ens224`` -- CHECK
   
 - Legacy command to add an anlyst machine with `sudo so-allow` was not longer valid, so found an alternative: `sudo so-firewall includehost analyst 192.168.106.133`
 
