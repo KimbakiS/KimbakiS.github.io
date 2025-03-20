@@ -10,6 +10,13 @@ layout: default
 
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
+# Certifications
+- GIAC Security Essentials Certification (GSEC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79b72e81-4a43-477e-9333-330d7c2faaac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- GIAC Foundational Cybersecurity Technologies (GFACT) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fcc07bf5-304c-448e-b31d-41285a98ee5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+-- ISC2 Certified in Cybersecurity (CC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c67ac40-1748-4df4-97eb-f5da82538ce2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 # Projects
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
