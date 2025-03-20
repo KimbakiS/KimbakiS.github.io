@@ -6,9 +6,12 @@ layout: default
 
 A cybersecurity home lab featuring pfSense for network management, Active Directory with Windows Server, Security Onion for traffic monitoring, and pentesting tools for analysis and exploitation.
 
+
 ---
 
+
 ## Project Components
+
 
 - **PfSense Server:** Multi-interface router/firewall that manages network traffic and subnet isolation for enhanced security.
   
@@ -22,13 +25,17 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
   
 - **Pentesting VM (Kali Linux):** A penetration testing environment used for manual and automated vulnerability scanning, reconnaissance, exploitation, and gaining access to the pfSense portal for testing security defenses.
 
+
 ---
+
 
 ## Network Diagram
 
 ![Cybersecurity Home Lab](/images/Cybersecurity Home Lab.PNG)
 
+
 ---
+
 
 ## Pfsense Configuration
 
@@ -46,9 +53,11 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 - Add `SPANPORT` as the span port for `VictimNetwork` so the latter's traffic will pass through to `SecOnon`
 - Firewall: accept traffic on all interfaces and all ports -- _intentional security misconfiguration_
 
+
 ---
 
-## SecurityOnion Configuration
+
+## Security Onion Configuration
 
 ### Set Up
 - **Hardware:**   Disk = 200GB   RAM = 8GB   Adapters = Vmnet4 (connects to Pfsense), Vmnet5 (connects to span port), NAT (general internet connection)
@@ -64,13 +73,17 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
   
 - Legacy command to add an anlyst machine with `sudo so-allow` was not longer valid, so found an alternative: `sudo so-firewall includehost analyst 192.168.106.133`
 
+
 ---
+
 
 ## Analyst VM -- Ubuntu
 
 ### Tools
 
+
 ---
+
 
 ## Pentester VM -- Kali Linux
 
@@ -81,9 +94,11 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
 
 ### Troubleshooting
 
-- Had an issue with updating the machine because of a missing key; retrieved and added the key from Kali's site via the command: `wget -q -O -https://archive.kali.org/archive-key.asc | apt-key add
+- Had an issue with updating the machine because of a missing key; retrieved and added the key from Kali's site via the command: `wget -q -O -https://archive.kali.org/archive-key.asc | apt-key add`
+
 
 --- 
+
 
 ## Victim Network -- Active Directory Environment
 
