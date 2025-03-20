@@ -11,7 +11,7 @@ layout: default
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
 # Certifications
-- GIAC Security Essentials Certification (GSEC) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79b72e81-4a43-477e-9333-330d7c2faaac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/79b72e81-4a43-477e-9333-330d7c2faaac/public_url)
 
 - GIAC Foundational Cybersecurity Technologies (GFACT) -- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fcc07bf5-304c-448e-b31d-41285a98ee5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
