@@ -14,7 +14,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.html).
 
-![Cybersecurity Home Lab](https://github.com/user-attachments/assets/9b4fd82a-67b7-44dc-bc0f-f81855f00c49)
+![Cybersecurity Home Lab](./images/Cybersecurity Home Lab.PNG)
 
 - Developed a comprehensive, evolving network diagram in Canva to map adapter links, IPs, and VM roles.
 - Configured pfSense as a multi-interface router/firewall to manage subnets.
@@ -28,7 +28,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.html).
 
-![Forensics Lab - Construction](https://github.com/user-attachments/assets/89eea950-61c7-4f48-8155-4b70497bad97)
+![Forensics Lab - Construction]()
 
 - Configured a forensics workstation and target machine, executing scripts to simulate attacks.
 - Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager.
