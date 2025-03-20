@@ -49,12 +49,15 @@ A cybersecurity home lab featuring pfSense for network management, Active Direct
   5. OP3: **em4 — no IP (this will be a span port)**
   6. OP4: **em5 — `192.168.4.1`**
 
-
+![image](https://github.com/user-attachments/assets/51a47024-7091-401c-9dfe-0ebc72d1261e) ![image](https://github.com/user-attachments/assets/53cf5ec8-d8bc-4518-8028-627502e89f9c)
 
 ### Web Portal Configuration:
 - Primary DNS: `8.8.8.8`   Secondary DNS: `4.4.4.4`
 - Interface Names: LAN=`Kali`   OPT1=`VictimNetwork`   OPT2=`SecOnion`   OPT3=`SpanPort`
 - Add `SPANPORT` as the span port for `VictimNetwork` so the latter's traffic will pass through to `SecOnon`
+
+![image](https://github.com/user-attachments/assets/bf7643ad-8edf-4cf6-89b5-b037a906c9e4)
+
 - Firewall: accept traffic on all interfaces and all ports -- _intentional security misconfiguration_
 
 
