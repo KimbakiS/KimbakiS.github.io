@@ -28,7 +28,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.html).
 
-![Forensics Lab - Construction]()
+![Forensics Lab - Construction](./images/Forensics Lab - Construction.JPG)
 
 - Configured a forensics workstation and target machine, executing scripts to simulate attacks.
 - Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager.
