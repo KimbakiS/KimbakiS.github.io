@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
-
 **Welcome!**
 
 # Bio
 
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
+
+# Education
+**SANS Technology Institute,** Cyber Immersion Academy (May 2025)
+**Academy if Art University,** Bacherlor of Fine Arts, 3D Character Animation (June 2019)
 
 # Certifications
 
@@ -29,113 +31,34 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
 
-A cybersecurity home lab featuring pfSense for network management, Active Directory with Windows Server, Security Onion for traffic monitoring, and pentesting tools for analysis and exploitation.
+- Developed a comprehensive, evolving network diagram in Canva to map adapter links, IPs, and VM roles. 
+- Configured pfSense as a multi-interface router/firewall to manage subnets. 
+- Deployed an Active Directory environment with Windows Server DC & two Windows 10 clients. 
+- Set up a Security Onion VM to monitor victim network traffic (via a span port) for IDS, monitoring, and log 
+management and created an Ubuntu VM to access the web portal and conduct analysis. 
+- Built a pentesting VM for manual/automated testing, recon, exploitation, and pfSense portal access. 
   
-<!-- > This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor. -->
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
 
-A Windows forensics lab featuring an attack machine simulating attacks on a target machine from which memory dumps and disk images are acquired. These artifacts are then mounted and analyzed on a dedicated workstation, where investigations are conducted using tools like Volatility and Zimmerman tools.
+- Configured a forensics workstation and target machine, executing scripts to simulate attacks. 
+- Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager. 
+- Investigated registry, file system, program execution, and logs with Zimmerman Tools and RegRipper. 
+- Performed memory forensics on dumps with Volatility3. 
 
-<!-- ### Header 3
+## TryHackMe
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Completed over 260 rooms consisting of both cyber learning contents and CTF-style challenges.
+- Accessed vulnerable virtual lab environments to practice hands-on cyber skills, including analysis, threat intelligence, SIEM investigation, forensics, web hacking, privilege escalation, and common frameworks.
+- Exposed to an used both red and blue team industry-standard tools, such as Splunk and Burp Suite
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-``` -->
+## CTF Competitions 
+- Practiced cyber and research skills in a fast-paced environment, applying and learning skills in areas such 
+as web hacking, OSINT, reverse engineering, cryptography, packet capture analysis, etc.
 
-<!-- #### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## OverTheWire:
+- [Bandit Writeup](./projects/overthewire/bandit.md).
+- [Leviathan Writeup](./projects/overthewire/leviathan.md).
 
 ```
 The final element.
