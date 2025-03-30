@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The classic Mr. Robot challenge where we have to find 3 hidden keys on the machine.
+## The classic ** Mr. Robot** challenge where we have to find 3 hidden keys on the machine.
 
 Preparation: add the IP of the machine to `/etc/hosts` to be able to use the domain name: `robot.thm`
 
