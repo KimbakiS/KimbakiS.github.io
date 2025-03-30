@@ -9,7 +9,9 @@ layout: default
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
 
 # Education
+
 **SANS Technology Institute,** Cyber Immersion Academy (May 2025)
+
 **Academy if Art University,** Bacherlor of Fine Arts, 3D Character Animation (June 2019)
 
 # Certifications
