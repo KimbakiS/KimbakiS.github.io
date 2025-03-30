@@ -116,6 +116,7 @@ done
 ```
 
 And it stopped right before the correct code, which we plug into the program and get a shell.
+
 ![image](https://github.com/user-attachments/assets/2d2b7fa9-99dc-4e24-8b55-77965db754a6)
 
 
