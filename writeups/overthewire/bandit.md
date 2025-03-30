@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # OverTheWire's Bandit Challenge
 ### Informal writeup with a collection of screenshots and some notes as I made my way through the Bandit challenge from OverTheWire, which I revisited after investing some more time in learning scripting.
 
