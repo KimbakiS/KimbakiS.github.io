@@ -56,9 +56,12 @@ management and created an Ubuntu VM to access the web portal and conduct analysi
 - Practiced cyber and research skills in a fast-paced environment, applying and learning skills in areas such 
 as web hacking, OSINT, reverse engineering, cryptography, packet capture analysis, etc.
 
+# Writeups
 ## OverTheWire:
-- [Bandit Writeup](./projects/overthewire/bandit.md).
-- [Leviathan Writeup](./projects/overthewire/leviathan.md).
+- [Bandit Writeup](./writeups/overthewire/bandit.md).
+- [Leviathan Writeup](./writeups/overthewire/leviathan.md).
+## TryHackMe:
+- [Mr. Robot](./writeups/tryhackme/mrrobot.md).
 
 ```
 The final element.
