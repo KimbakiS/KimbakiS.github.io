@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # OverTheWire's Leviathan Challenge
 
 ### Collection of screenshots and notes
