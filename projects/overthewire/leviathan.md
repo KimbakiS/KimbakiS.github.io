@@ -7,7 +7,7 @@ Server: [leviathan.labs.overthewire.org](http://leviathan.labs.overthewire.org):
 
 Challenge notes and hints will all be in the home directories of the current level.
 
-**Level0:**
+**Level 0:**
 
 SSHed as leviathan0 and found a folder containing a simple HTML file of a bookmarks export.
 ![image](https://github.com/user-attachments/assets/68d57112-5437-4c14-a292-38c7f0e75fc4)
@@ -15,7 +15,7 @@ SSHed as leviathan0 and found a folder containing a simple HTML file of a bookma
 Could have tried other keywords to locate the password, but one of the most obvious ones to me was “leviathan”, since the password is likely stored in the leviathan server:
 ![image](https://github.com/user-attachments/assets/ea51cd27-8347-46a8-b728-8393d2665c53)
 
-**Level1:** 
+**Level 1:** 
 
 Found a file with SUID (`s`) privileges and a prompt for a password.
 ![image](https://github.com/user-attachments/assets/f9abc6e2-8877-4b14-b6fb-7a7f37557352)
@@ -30,7 +30,7 @@ And one of the keywords did end up being the correct one, so we got a shell and 
 ![image](https://github.com/user-attachments/assets/97f04acc-572a-49b2-8fe2-9072931ac99d)
 
 
-**Level2:** 
+**Level 2:** 
 
 There’s a program with SUID privileges that appears to print out a file you specify, so just in case, I tried to retrieve the password through it, but it unsurprisingly requires you to have the right permissions for access:
 
@@ -49,9 +49,10 @@ This suggests that there is likely not input sanitization, so I tried to create 
 ![image](https://github.com/user-attachments/assets/93f93cbb-4955-4f4d-a791-98c9a2cde2f0)
 
 
-**Level3:** 
+**Level 3:** 
 
 The file “level3” seems to open a shell if you input the right password.
+
 ![image](https://github.com/user-attachments/assets/232750e0-652b-4954-88ea-589337c5ca55)
 
 Running an ltrace again on the program (starting to LOVE this new command!), we see that a strcmp is run, comparing the input with a plaintext value “snlprintf.”
@@ -62,7 +63,7 @@ So, we run the program again and enter this as the password and get a shell as l
 *Note to self: why did you run the program with a filename? You’re still stuck on the previous level -_-*
 
 
-**Level4:**
+**Level 4:**
 
 There is a simple file in the “.trash” directory that contains binary.
 ![image](https://github.com/user-attachments/assets/c8665287-0feb-4a06-a251-73c0bcf3db41)
@@ -71,12 +72,12 @@ We just crack the binary with CyberChef and it looks like the password:
 ![image](https://github.com/user-attachments/assets/b3a970e9-0a6f-4d21-a322-a80c01bff9bc)
 
  But it can’t be that easy, right?
+ 
 ![image](https://github.com/user-attachments/assets/cf3da40f-f210-4da4-9c3f-8ba631cfb75a)
 
 Yep…..it is certainly that easy.
 
-
-**Level5:**
+**Level 5:**
 
 There’s a program “leviathan5” with the owner set to “leviathan6”, and it looks like it just opens a particullar file “/tmp/file.log”, but the file doesn’t currently exist:
 ![image](https://github.com/user-attachments/assets/2a0b9094-fcce-445e-9442-ee0950d1828e)
@@ -90,7 +91,7 @@ We can actually create a Symlink (with the ln -s command) between “file.log”
 Logic: basically, file.log is a link to the password file, so when fopen tries to retrieve the file.log, it in fact prints out the file it links to.
 
 
-**Level6:**
+**Level 6:**
 
 Pretty straightforward program that asks for a 4-digit code:
 ![image](https://github.com/user-attachments/assets/948701b3-2ecc-46dd-8c37-591f1ba9235b)
