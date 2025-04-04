@@ -7,7 +7,7 @@ layout: default
 # Bio
 
 Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
-
+---
 # Education
 
 **SANS Technology Institute,** Cyber Immersion Academy (May 2025)
@@ -27,7 +27,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
         <img src="https://github.com/user-attachments/assets/fc75e1cf-5ff2-4a0c-baf4-2bf551056621" alt="ISC2 Certified in Cybersecurity (CC)" width="150">
     </a>
 </div>
-
+---
 
 # Projects
 
@@ -57,7 +57,7 @@ management and created an Ubuntu VM to access the web portal and conduct analysi
 ## CTF Competitions 
 - Practiced cyber and research skills in a fast-paced environment, applying and learning skills in areas such 
 as web hacking, OSINT, reverse engineering, cryptography, packet capture analysis, etc.
-
+---
 # Writeups
 ## OverTheWire:
 - [Bandit Writeup](./writeups/overthewire/bandit.md).
@@ -65,3 +65,4 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 
 ## TryHackMe:
 - [Mr. Robot](./writeups/tryhackme/mrrobot.md).
+---
