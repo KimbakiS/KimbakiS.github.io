@@ -69,6 +69,7 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 - [Leviathan Writeup](./writeups/overthewire/leviathan.md).
 
 ## TryHackMe:
-- [Mr. Robot](./writeups/tryhackme/mrrobot.md).
+- [Tardigrade](./writeups/tryhackme/tardigrade.md). -- Find all backdoors on the machine and remediate them.
+- [Mr. Robot](./writeups/tryhackme/mrrobot.md). -- Exploit a vulnerability in a web app to gain access to an root a machine
 
 ---
