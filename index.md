@@ -62,10 +62,6 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 ## OverTheWire:
 - [Bandit Writeup](./writeups/overthewire/bandit.md).
 - [Leviathan Writeup](./writeups/overthewire/leviathan.md).
+
 ## TryHackMe:
 - [Mr. Robot](./writeups/tryhackme/mrrobot.md).
-
-```
-The final element.
-```
--->
