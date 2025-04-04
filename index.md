@@ -14,7 +14,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 **SANS Technology Institute,** Cyber Immersion Academy (May 2025)
 
-**Academy if Art University,** Bachelor of Fine Arts, 3D Character Animation (June 2019)
+**Academy of Art University,** Bachelor of Fine Arts, 3D Character Animation (June 2019)
 
 # Certifications
 
