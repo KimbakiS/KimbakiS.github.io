@@ -69,7 +69,8 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 - [Leviathan Writeup](./writeups/overthewire/leviathan.md).
 
 ## TryHackMe:
-- [Tardigrade](./writeups/tryhackme/tardigrade.md). -- Find all backdoors on the machine and remediate them.
-- [Mr. Robot](./writeups/tryhackme/mrrobot.md). -- Exploit a vulnerability in a web app to gain access to an root a machine
+- [Tardigrade](./writeups/tryhackme/tardigrade.md).    Find all backdoors on the machine and remediate them.
+- [Friday Overtime](./writeups/tryhackme/friday-overtime.md).    CTI analysis on malware samples using online tools like VirusTotal and MITRE ATT&CK
+- [Mr. Robot](./writeups/tryhackme/mrrobot.md).    Exploit a vulnerability in a web app to gain access to an root a machine
 
 ---
