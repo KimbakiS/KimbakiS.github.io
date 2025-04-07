@@ -73,5 +73,6 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 - [Friday Overtime](./writeups/tryhackme/friday-overtime.md).    CTI analysis on malware samples using online tools like VirusTotal and MITRE ATT&CK
 - [Mr. Robot](./writeups/tryhackme/mrrobot.md).    Exploit a vulnerability in a web app to gain access to an root a machine
 - [New Hire Old Artifacts](./writeups/tryhackme/newhire-oldartifacts.md).    Perform log analysis with Splunk to find old IoCs from an endpoint
+- [Summit](./writeups/tryhackme/summit.md).     Simple room that involves investigations through each tier of the Pyramid of Pain
 
 ---
