@@ -34,7 +34,7 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 # Skills Overview
 ## ⚙️ **Technical Skills       and        🛠️ Tools:**
-| **Skill**        | **Tool**                          |
+<!-- | **Skill**        | **Tool**                          |
 |---------------------------|-------------------------------------|
 | 🖥️ Operating Systems      | Linux, Windows                     |
 | 📈 SIEMs & Log Analysis   | Elastic Stack (ELK), Splunk        |
@@ -46,6 +46,54 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 | 🗝️ Passwords/Cryptography | GPG, John, Hashcat, Hydra          |
 | 🔒 Endpoint Security      | Firewalls, Permissions             |
 | 📜 Scripting Languages    | Python, PowerShell, SQL, Bash      |
+-->
+<table>
+  <tr>
+    <th>Skill Category</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>🖥️ Operating Systems</td>
+    <td>Linux, Windows</td>
+  </tr>
+  <tr>
+    <td>📈 SIEMs & Log Analysis</td>
+    <td>Elastic Stack (ELK), Splunk</td>
+  </tr>
+  <tr>
+    <td>🌐 Network Security</td>
+    <td>Wireshark, Tcpdump</td>
+  </tr>
+  <tr>
+    <td>🛡️ IDS/IPS</td>
+    <td>Snort, Zeek</td>
+  </tr>
+  <tr>
+    <td>🧠 Threat Intelligence</td>
+    <td>VirusTotal, MITRE ATT&CK</td>
+  </tr>
+  <tr>
+    <td>🔬 Digital Forensics</td>
+    <td>Autopsy, Volatility</td>
+  </tr>
+  <tr>
+    <td>🧰 Pentesting</td>
+    <td>Nmap, Metasploit</td>
+  </tr>
+  <tr>
+    <td>🗝️ Passwords/Cryptography</td>
+    <td>GPG, John, Hashcat, Hydra</td>
+  </tr>
+  <tr>
+    <td>🔒 Endpoint Security</td>
+    <td>Firewalls, Permissions</td>
+  </tr>
+  <tr>
+    <td>📜 Scripting Languages</td>
+    <td>Python, PowerShell, SQL, Bash</td>
+  </tr>
+</table>
+
 
 ## 🌟 **Soft Skills:**
 Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
