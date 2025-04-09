@@ -32,34 +32,14 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 
 ---
 
-# Projects
+# Home Labs
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
-
-- Developed a comprehensive, evolving network diagram in Canva to map adapter links, IPs, and VM roles. 
-- Configured pfSense as a multi-interface router/firewall to manage subnets. 
-- Deployed an Active Directory environment with Windows Server DC & two Windows 10 clients. 
-- Set up a Security Onion VM to monitor victim network traffic (via a span port) for IDS, monitoring, and log 
-management and created an Ubuntu VM to access the web portal and conduct analysis. 
-- Built a pentesting VM for manual/automated testing, recon, exploitation, and pfSense portal access. 
+Designed and implemented a comprehensive cybersecurity lab, featuring a network diagram, multi-interface pfSense firewall, Active Directory environment, Security Onion for traffic analysis and IDS, and a pentesting VM for testing and exploitation.
   
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
-
-- Configured a forensics workstation and target machine, executing scripts to simulate attacks. 
-- Acquired and analyzed memory dumps and disk images using AIM, KAPE, and FTK Imager. 
-- Investigated registry, file system, program execution, and logs with Zimmerman Tools and RegRipper. 
-- Performed memory forensics on dumps with Volatility3. 
-
-## TryHackMe
-
-- Completed over 260 rooms consisting of both cyber learning contents and CTF-style challenges.
-- Accessed vulnerable virtual lab environments to practice hands-on cyber skills, including analysis, threat intelligence, SIEM investigation, forensics, web hacking, privilege escalation, and common frameworks.
-- Exposed to an used both red and blue team industry-standard tools, such as Splunk and Burp Suite
-
-## CTF Competitions 
-- Practiced cyber and research skills in a fast-paced environment, applying and learning skills in areas such 
-as web hacking, OSINT, reverse engineering, cryptography, packet capture analysis, etc.
+Built and configured a forensic workstation to simulate attacks, analyze memory dumps and disk images with tools like KAPE and FTK Imager, and investigate registry, file systems, and memory forensics using Zimmerman Tools, RegRipper, and Volatility3.
 
 ---
 
