@@ -76,3 +76,9 @@ as web hacking, OSINT, reverse engineering, cryptography, packet capture analysi
 - [Summit](./writeups/tryhackme/summit.md).     Simple room that involves investigations through each tier of the Pyramid of Pain
 
 ---
+
+# Posts
+- [Thoughts on Zero-Click Exploits](./posts/zero-click-exploits.md).
+- [Cybersecurity Lessons From Jurassic Park](./posts/jurassic-park-cybersecurity.md).
+
+---
