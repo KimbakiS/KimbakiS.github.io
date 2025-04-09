@@ -33,69 +33,56 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 ---
 
 # Skills Overview
-## ⚙️ **Technical Skills       and        🛠️ Tools:**
-<!-- | **Skill**        | **Tool**                          |
-|---------------------------|-------------------------------------|
-| 🖥️ Operating Systems      | Linux, Windows                     |
-| 📈 SIEMs & Log Analysis   | Elastic Stack (ELK), Splunk        |
-| 🌐 Network Security       | Wireshark, Tcpdump                 |
-| 🛡️ IDS/IPS                | Snort, Zeek                        |
-| 🧠 Threat Intelligence    | VirusTotal, MITRE ATT&CK           |
-| 🔬 Digital Forensics      | Autopsy, Volatility                |
-| 🧰 Pentesting             | Nmap, Metasploit                   |
-| 🗝️ Passwords/Cryptography | GPG, John, Hashcat, Hydra          |
-| 🔒 Endpoint Security      | Firewalls, Permissions             |
-| 📜 Scripting Languages    | Python, PowerShell, SQL, Bash      |
--->
-<table>
+### ⚙️ **Technical Skills       and        🛠️ Tools:**
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Skill Category</th>
-    <th>Tools</th>
+    <th style="padding: 5px; text-align: left;">Skills</th>
+    <th style="padding: 5px; text-align: left;">Tools</th>
   </tr>
   <tr>
-    <td>🖥️ Operating Systems</td>
-    <td>Linux, Windows</td>
+    <td style="padding: 5px;">🖥️ Operating Systems</td>
+    <td style="padding: 5px;">Linux, Windows</td>
   </tr>
   <tr>
-    <td>📈 SIEMs & Log Analysis</td>
-    <td>Elastic Stack (ELK), Splunk</td>
+    <td style="padding: 5px;">📈 SIEMs & Log Analysis</td>
+    <td style="padding: 5px;">Elastic Stack (ELK), Splunk</td>
   </tr>
   <tr>
-    <td>🌐 Network Security</td>
-    <td>Wireshark, Tcpdump</td>
+    <td style="padding: 5px;">🌐 Network Security</td>
+    <td style="padding: 5px;">Wireshark, Tcpdump</td>
   </tr>
   <tr>
-    <td>🛡️ IDS/IPS</td>
-    <td>Snort, Zeek</td>
+    <td style="padding: 5px;">🛡️ IDS/IPS</td>
+    <td style="padding: 5px;">Snort, Zeek</td>
   </tr>
   <tr>
-    <td>🧠 Threat Intelligence</td>
-    <td>VirusTotal, MITRE ATT&CK</td>
+    <td style="padding: 5px;">🧠 Threat Intelligence</td>
+    <td style="padding: 5px;">VirusTotal, MITRE ATT&CK</td>
   </tr>
   <tr>
-    <td>🔬 Digital Forensics</td>
-    <td>Autopsy, Volatility</td>
+    <td style="padding: 5px;">🔬 Digital Forensics</td>
+    <td style="padding: 5px;">Autopsy, Volatility</td>
   </tr>
   <tr>
-    <td>🧰 Pentesting</td>
-    <td>Nmap, Metasploit</td>
+    <td style="padding: 5px;">🧰 Pentesting</td>
+    <td style="padding: 5px;">Nmap, Metasploit</td>
   </tr>
   <tr>
-    <td>🗝️ Passwords/Cryptography</td>
-    <td>GPG, John, Hashcat, Hydra</td>
+    <td style="padding: 5px;">🗝️ Passwords/Cryptography</td>
+    <td style="padding: 5px;">GPG, John, Hashcat, Hydra</td>
   </tr>
   <tr>
-    <td>🔒 Endpoint Security</td>
-    <td>Firewalls, Permissions</td>
+    <td style="padding: 5px;">🔒 Endpoint Security</td>
+    <td style="padding: 5px;">Firewalls, Permissions</td>
   </tr>
   <tr>
-    <td>📜 Scripting Languages</td>
-    <td>Python, PowerShell, SQL, Bash</td>
+    <td style="padding: 5px;">📜 Scripting Languages</td>
+    <td style="padding: 5px;">Python, PowerShell, SQL, Bash</td>
   </tr>
 </table>
 
 
-## 🌟 **Soft Skills:**
+### 🌟 **Soft Skills:**
 Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
 
 ---
