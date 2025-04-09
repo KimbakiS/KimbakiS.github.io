@@ -33,11 +33,20 @@ Highly driven cybersecurity enthusiast with an intense curiosity, a passion for 
 ---
 
 # Skills Overview
-- ⚙️ **Technical Skills:**    Network Security, Log Analysis, Traffic Analysis, Permissions, Threat Hunting, Digital Forensics, Basic Pentesting, Web Hacking, OSINT, Documentation, Troubleshooting, Virtualization. 
-- 🛠️ **Tools:**    Wireshark, Tcpdump, Pfsense, Burp Suite, Splunk, Elastic Stack (ELK), Snort, Nmap, password cracking tools (Hydra, Hashcat, John the Ripper), Metasploit, VirusTotal, GPG, CyberChef, Volatility. 
-- 🖥️ **Hardware/OS:**    Linux, Windows, VirtualBox, VMware. 
-- 📜 **Programming/Scripting Languages:**    Python, SQL, Bash, PowerShell, some Assembly (reverse engineering).
-- 🌟 **Soft Skills:**    Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
+## ⚙️ **Technical Skills       and        🛠️ Tools:**
+- 🖥️ Operating Systems ---------------- Linux, Windows
+- 📈 SIEMs & Log Analysis ------------- Elastic Stack (ELK), Splunk
+- 🌐 Network Security ----------------- Wireshark, Tcpdump
+- 🛡️ IDS/IPS -------------------------- Snort, Zeek
+- 🧠 Threat Intelligence -------------- VirusTotal, MITRE ATT&CK
+- 🔬 Digital Forensics ---------------- Autopsy, Volatility
+- 🧰 Pentesting ----------------------- Nmap, Metasploit
+- 🗝️ Passwords/Cryptography ----------- GPG, John, Hashcat, Hydra
+- 🔒 Endpoint Security ---------------- Firewalls, Permissions
+- 📜 Scripting Languages -------------- Python, PowerShell, SQL, Bash
+
+## 🌟 **Soft Skills:**
+Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
 
 ---
 
