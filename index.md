@@ -60,5 +60,6 @@ Built and configured a forensic workstation to simulate attacks, analyze memory 
 # Posts
 - [Thoughts on Zero-Click Exploits](./posts/zero-click-exploits.md).
 - [Cybersecurity Lessons From Jurassic Park](./posts/jurassic-park-cybersecurity.md).
+- [Network Attacks & Analogies](./posts/network-attacks-analogies.md).
 
 ---
