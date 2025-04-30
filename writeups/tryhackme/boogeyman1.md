@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Boogeyman 1
 
 The goal of this room is to analyze TTPs of an attacker via email, endpoint, and network analyses.
