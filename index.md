@@ -106,9 +106,9 @@ Built and configured a forensic workstation to simulate attacks, analyze memory 
 ## TryHackMe:
 - [Boogeyman 1](./writeups/tryhackme/boogeyman1.md).     Follow attacker's TTPs via email, endpoint, and network analysis.
 - [Tardigrade](./writeups/tryhackme/tardigrade.md).    Find all backdoors on the machine and remediate them.
-- [Friday Overtime](./writeups/tryhackme/friday-overtime.md).    CTI analysis on malware samples using online tools like VirusTotal and MITRE ATT&CK.
-- [Mr. Robot](./writeups/tryhackme/mrrobot.md).    Exploit a vulnerability in a web app to gain access to an root a machine.
-- [New Hire Old Artifacts](./writeups/tryhackme/newhire-oldartifacts.md).    Perform log analysis with Splunk to find old IoCs from an endpoint.
+- [Friday Overtime](./writeups/tryhackme/friday-overtime.md).    CTI analysis on malware samples using VirusTotal and MITRE ATT&CK.
+- [Mr. Robot](./writeups/tryhackme/mrrobot.md).    Exploit a vulnerability in web app to gain access to and root machine.
+- [New Hire Old Artifacts](./writeups/tryhackme/newhire-oldartifacts.md).    Log analysis with Splunk to find old IoCs on an endpoint.
 - [Summit](./writeups/tryhackme/summit.md).     Simple room that involves investigations through each tier of the Pyramid of Pain.
 
 ---
